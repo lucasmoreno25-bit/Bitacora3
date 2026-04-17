@@ -21,7 +21,7 @@ Fecha:17/04/2026
     
   El valor de la instalación permite determinar qué proceso de la máquina generó el mensaje. Dado que el protocolo Syslog se desarrolló originalmente en BSD Unix, las instalaciones reflejan los nombres de los procesos y demonios de UNIX.
 
-	![][image1]
+	
 
 ## ¿Qué es Severity/prioridad?
 
